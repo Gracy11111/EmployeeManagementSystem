@@ -89,3 +89,4 @@
 2023-04-26 01:02:58,293 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
 2023-04-26 01:02:58,815 INFO org.apache.tomcat.util.net.NioEndpoint.certificate [restartedMain] Connector [https-jsse-nio-8787], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [file:/C:/Users/Adminstrator/Desktop/Capstone_Project/EmployeeManagementSystem/bin/main/keystore.p12] using alias [spring-https] and with trust store [null]
 2023-04-26 01:02:58,858 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8787 (https) with context path ''
+2023-04-26 01:02:58,883 INFO com.employee.EmployeeManagementSystemApplication [restartedMain] Started EmployeeManagementSystemApplication in 12.419 seconds (JVM running for 14.905)
