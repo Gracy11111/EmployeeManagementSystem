@@ -31,7 +31,7 @@ public class EmployeeServiceImp implements IEmployeeService {
 	EmployeeRepository repo;
 	
 	private static final String SECRET_KEY = "SecretKey";
-	private static final String SALTVALUE = "password" ;
+	private static final String SALTVALUE = "endgame" ;
 	@Override
 	public EmployeeVO getByEmployeeId(int employeeId) throws Exception {
 		Employee employee = repo.findById(employeeId).orElse(null);

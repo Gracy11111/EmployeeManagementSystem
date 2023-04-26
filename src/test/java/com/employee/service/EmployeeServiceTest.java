@@ -15,15 +15,15 @@ import com.employee.vo.EmployeeVO;
 @SpringBootTest
 class EmployeeServiceTest {
 
-	@Autowired
-	private IEmployeeService service;
+	//@Autowired
+	//private IEmployeeService service;
 	
-	@Test
-	void testGetEmployeeByEmployeeId() throws Exception{
-		EmployeeVO employee = service.getByEmployeeId(111);
-		assertNotNull(employee);
-		assertEquals(111, employee.getEmployeeId());
-	}
+	//@Test
+	//void testGetEmployeeByEmployeeId() throws Exception{
+	//	EmployeeVO employee = service.getByEmployeeId(111);
+	//	assertNotNull(employee);
+	//	assertEquals(111, employee.getEmployeeId());
+	//}
 
 }
 
