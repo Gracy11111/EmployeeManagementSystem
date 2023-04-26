@@ -20,9 +20,9 @@ class EmployeeServiceTest {
 	
 	//@Test
 	//void testGetEmployeeByEmployeeId() throws Exception{
-	//	EmployeeVO employee = service.getByEmployeeId(111);
-	//	assertNotNull(employee);
-	//	assertEquals(111, employee.getEmployeeId());
+		//EmployeeVO employee = service.getByEmployeeId(111);
+		//assertNotNull(employee);
+		//assertEquals(111, employee.getEmployeeId());
 	//}
 
 }
